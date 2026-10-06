@@ -1,6 +1,6 @@
 # Itrifid API Documentation
 
-Itrifid Private Limited is an API provider based in Ranchi, India (ISO 9001:2015 certified). We provide ready-to-integrate APIs for sports and iGaming platforms, along with integration support.
+Itrifid Private Limited is an ISO 9001:2015 certified API provider and software development company. We provide ready-to-integrate APIs for sports and iGaming platforms, along with integration support.
 
 ## Our APIs
 
