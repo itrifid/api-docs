@@ -14,7 +14,7 @@ Itrifid Private Limited is an ISO 9001:2015 certified API provider and software 
 
 ## Documentation and testing
 
-- Diamond Exchange API: https://www.itrifid.com/diamond-exchange-api-provider
+- Diamond Exchange API: https://www.itrifid.com/Diamond-Exchange-API
 - Diamond Exchange API documentation: https://www.itrifid.com/diamond-exchange-api-documentation
 - Integration guide: https://www.itrifid.com/how-to-integrate-diamond-exchange-api
 - API playground: https://www.itrifid.com/api-playground/
